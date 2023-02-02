@@ -1,6 +1,6 @@
 # dotfiles
 
-Hola :p, aqui dejo mis dotfiles los voy haciendo de apoquito
+Hola :D, aca dejo mis dotfiles los voy haciendo de apoquito
 y ire actualizando a medida que lo vaya mejorando 
 
 rofi por adi1090x
