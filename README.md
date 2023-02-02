@@ -13,4 +13,5 @@ Dependencias:
   lsd
   bat
   picom
-  
+  rofi
+  nautilus
